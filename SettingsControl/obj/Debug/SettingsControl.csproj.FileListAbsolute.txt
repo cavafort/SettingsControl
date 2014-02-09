@@ -1,0 +1,13 @@
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\obj\Debug\SettingsControl.csprojResolveAssemblyReference.cache
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\SettingsControl.dll
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\SettingsControl.pdb
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\obj\Debug\SettingsControl.dll
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\obj\Debug\SettingsControl.pdb
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Common.dll
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Redis.dll
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Text.dll
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Common.xml
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Interfaces.xml
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Redis.xml
+c:\users\eugene\documents\visual studio 2013\Projects\SettingsControl\SettingsControl\bin\Debug\ServiceStack.Text.xml
